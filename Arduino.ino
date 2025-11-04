@@ -566,4 +566,3 @@ void pollSerial(){
     else if (cmd.length()<200) cmd += c;
   }
 }
-
