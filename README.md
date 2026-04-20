@@ -1,0 +1,1 @@
+Code for intelligent communication system between Mars and Earth, specially written for Nasa-based Hackathon. First, input message sent on Morze code through LEDs, then photo resistors, that rotate 360 degrees with help of motor servo, catch light and transfer it to message in terminal. Also, photo resistors always focus on the strongest light 
